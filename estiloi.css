@@ -1,0 +1,59 @@
+/* #6A0303 El color Machin
+#CC0606 color medio machin
+#5C0202 borde parrafo 1 */
+
+
+#titulo{
+  background-color: #CC0606;
+}
+
+#Principal{
+  background-color: #792424;
+  text-align: justify;
+  font-style:normal;
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  margin-bottom: 10px;
+}
+
+#parra1{
+	border: #5C0202 solid 5px;
+  	columns: 3;
+  	color: #7F8508;
+  	text-transform: uppercase;
+}
+#parra2{
+  padding: 3em;
+  border: 3px solid #E4F104;
+  background: #7F8508;
+}
+#parra3{
+  word-spacing: 8pt;
+  color: #740606;
+  text-decoration: underline;
+}
+#parra4{
+  font-family: capitalize;
+  font-style: italic;
+  background-image: url(fondoparra4.jpg);
+  background-size: 20px 30px;
+  background-repeat:round;
+}
+#parra5{
+  border: #5C0202 solid 5px;
+}
+
+body{
+  background-color: #6A0303;
+}
+p{
+  text-align: justify;
+}
+
+*{
+  font-size: 20px;
+  font-family: Time New Roman, Arial, Algerian;
+  font-style: oblique;
+}
